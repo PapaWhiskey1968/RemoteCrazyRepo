@@ -15,6 +15,7 @@ int main(int argc, char* argv[])
 
 	cout << msg.str();
 
+	cout << "some crap\n";
 
 	return 0;
 }
