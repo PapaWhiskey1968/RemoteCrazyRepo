@@ -1,3 +1,10 @@
+/*
+ * Crazy.cc
+ * Main file for CrazyFly
+ *  Created on: 11 sep 2013
+ *      Author: Peter
+ */
+
 #include <iostream>
 #include <sstream>
 
